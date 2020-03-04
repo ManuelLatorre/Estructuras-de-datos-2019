@@ -20,6 +20,12 @@ COMANDOS BASICOS
 para subir
 git add. 
 git commit -m ""
+
+crear repository
+git remote add global link
+git push -u origin master
+
+subirlo 
 git push
 
 para bajar
